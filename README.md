@@ -21,7 +21,8 @@ We initialize the solution matrix same as the input graph matrix as a first step
 1. Finding a regular expression denoting the regular language accepted by a finite automaton (Kleene’s algorithm)
 2. Inversion of real matrices (Gauss–Jordan algorithm).
 3. Optimal routing.
-4. Finding a regular expression denoting the regular language accepted by a finite automaton
+4. Finding a regular expression denoting the regular language accepted by a finite automation.
+
 <br><b>TIME COMPLEXITY- O(n3)</b>
 
 ## Bidirectional Search Algorithm<br>
